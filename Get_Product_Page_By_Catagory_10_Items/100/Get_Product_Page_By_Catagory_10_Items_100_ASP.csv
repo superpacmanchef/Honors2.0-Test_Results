@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Get Product Page Catagory,10000,439,434,572,633,890,4,3117,0.000%,220.32741,37.65,39.37
+TOTAL,10000,439,434,572,633,890,4,3117,0.000%,220.32741,37.65,39.37
