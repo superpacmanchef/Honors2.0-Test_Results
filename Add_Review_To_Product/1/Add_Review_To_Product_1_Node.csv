@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login,100,87,87,89,90,94,83,99,0.000%,9.39850,3.48,3.14
+Add Product Review,100,18,5,15,29,144,3,771,0.000%,9.46880,4.33,3.14
+TOTAL,200,52,84,89,90,125,3,771,0.000%,18.77582,7.77,6.25

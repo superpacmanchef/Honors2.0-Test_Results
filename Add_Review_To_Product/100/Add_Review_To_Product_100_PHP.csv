@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login,10000,1180,1129,1841,2036,2623,3,4503,0.020%,46.31173,18.18,14.03
+Add Review to Product,10000,933,867,1651,1857,2299,2,3871,0.030%,46.36499,17.83,14.39
+TOTAL,20000,1056,1007,1753,1970,2452,2,4503,0.025%,92.61918,35.98,28.40

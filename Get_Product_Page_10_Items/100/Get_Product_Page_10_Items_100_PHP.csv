@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Get Product Page - php,10000,223,125,501,783,1237,1,6226,0.000%,393.39103,452.37,69.92
+TOTAL,10000,223,125,501,783,1237,1,6226,0.000%,393.39103,452.37,69.92
