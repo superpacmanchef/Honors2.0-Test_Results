@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login,1000,567,524,827,915,1184,225,1591,0.000%,14.33527,2.52,6.46
+Get User Reviews,1000,117,81,280,313,392,5,824,0.000%,14.38642,4.04,4.91
+TOTAL,2000,342,329,740,827,1085,5,1591,0.000%,28.66767,6.54,11.34

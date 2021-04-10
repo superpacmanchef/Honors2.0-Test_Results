@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login,100,220,219,226,228,240,214,248,0.000%,3.74280,0.66,1.70
+Order BAsket,100,46,44,52,55,78,38,197,0.000%,3.77145,0.64,1.62
+TOTAL,200,133,197,224,226,232,38,248,0.000%,7.47300,1.29,3.30

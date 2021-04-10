@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login,1000,247,239,332,369,473,86,732,0.000%,25.03881,9.31,8.41
+Get Orders,1000,142,143,212,232,282,4,709,0.000%,25.09599,16.71,5.58
+TOTAL,2000,195,190,298,335,448,4,732,0.000%,50.07135,25.98,13.98

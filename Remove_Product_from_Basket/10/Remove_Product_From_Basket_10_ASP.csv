@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login,1000,517,449,810,891,1174,212,1398,0.000%,15.03601,2.65,6.79
+Remove Product From Basket,1000,128,86,297,338,423,11,803,0.000%,15.09183,2.56,6.72
+TOTAL,2000,323,316,688,810,1001,11,1398,0.000%,30.06569,5.20,13.48
